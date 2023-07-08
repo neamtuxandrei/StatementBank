@@ -1,0 +1,15 @@
+F:\projects\softelligence\demoProjects\StatementBank\StatementBank\bin\Debug\net6.0\StatementBank.exe
+F:\projects\softelligence\demoProjects\StatementBank\StatementBank\bin\Debug\net6.0\StatementBank.deps.json
+F:\projects\softelligence\demoProjects\StatementBank\StatementBank\bin\Debug\net6.0\StatementBank.runtimeconfig.json
+F:\projects\softelligence\demoProjects\StatementBank\StatementBank\bin\Debug\net6.0\StatementBank.dll
+F:\projects\softelligence\demoProjects\StatementBank\StatementBank\bin\Debug\net6.0\StatementBank.pdb
+F:\projects\softelligence\demoProjects\StatementBank\StatementBank\obj\Debug\net6.0\StatementBank.csproj.AssemblyReference.cache
+F:\projects\softelligence\demoProjects\StatementBank\StatementBank\obj\Debug\net6.0\StatementBank.GeneratedMSBuildEditorConfig.editorconfig
+F:\projects\softelligence\demoProjects\StatementBank\StatementBank\obj\Debug\net6.0\StatementBank.AssemblyInfoInputs.cache
+F:\projects\softelligence\demoProjects\StatementBank\StatementBank\obj\Debug\net6.0\StatementBank.AssemblyInfo.cs
+F:\projects\softelligence\demoProjects\StatementBank\StatementBank\obj\Debug\net6.0\StatementBank.csproj.CoreCompileInputs.cache
+F:\projects\softelligence\demoProjects\StatementBank\StatementBank\obj\Debug\net6.0\StatementBank.dll
+F:\projects\softelligence\demoProjects\StatementBank\StatementBank\obj\Debug\net6.0\refint\StatementBank.dll
+F:\projects\softelligence\demoProjects\StatementBank\StatementBank\obj\Debug\net6.0\StatementBank.pdb
+F:\projects\softelligence\demoProjects\StatementBank\StatementBank\obj\Debug\net6.0\StatementBank.genruntimeconfig.cache
+F:\projects\softelligence\demoProjects\StatementBank\StatementBank\obj\Debug\net6.0\ref\StatementBank.dll
