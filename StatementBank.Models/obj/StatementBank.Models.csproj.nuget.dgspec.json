@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\projects\\softelligence\\demoProjects\\StatementBank\\StatementBank.Models\\StatementBank.Models.csproj": {}
+    "C:\\andrei2023\\projects\\softelligence\\StatementBank\\StatementBank.Models\\StatementBank.Models.csproj": {}
   },
   "projects": {
-    "F:\\projects\\softelligence\\demoProjects\\StatementBank\\StatementBank.Models\\StatementBank.Models.csproj": {
+    "C:\\andrei2023\\projects\\softelligence\\StatementBank\\StatementBank.Models\\StatementBank.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\projects\\softelligence\\demoProjects\\StatementBank\\StatementBank.Models\\StatementBank.Models.csproj",
+        "projectUniqueName": "C:\\andrei2023\\projects\\softelligence\\StatementBank\\StatementBank.Models\\StatementBank.Models.csproj",
         "projectName": "StatementBank.Models",
-        "projectPath": "F:\\projects\\softelligence\\demoProjects\\StatementBank\\StatementBank.Models\\StatementBank.Models.csproj",
+        "projectPath": "C:\\andrei2023\\projects\\softelligence\\StatementBank\\StatementBank.Models\\StatementBank.Models.csproj",
         "packagesPath": "C:\\Users\\neamt\\.nuget\\packages\\",
-        "outputPath": "F:\\projects\\softelligence\\demoProjects\\StatementBank\\StatementBank.Models\\obj\\",
+        "outputPath": "C:\\andrei2023\\projects\\softelligence\\StatementBank\\StatementBank.Models\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\neamt\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -55,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
         }
       }
     }

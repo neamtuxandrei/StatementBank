@@ -1,4 +1,5 @@
-﻿using System;
+﻿using StatementBank.Models.Exceptions;
+using System;
 using System.Collections;
 using System.Collections.Generic;
 using System.Globalization;
@@ -21,18 +22,15 @@ namespace StatementBank.Models
         {
             Customer = customer;
         }
-     
-        public void MakeWithdrawal (decimal amount,string description)
+         public void MakeWithdrawal (decimal amount,string description)
         {
             if(amount <= 0)
             {
-                Console.WriteLine($"Amount {amount} is not valid! It must be > 0.");
-                return;
+                throw new InvalidAmountException(amount);
             }
             if(Balance - amount < 0) 
             {
-                Console.WriteLine($"Insufficient funds. Balance:{Balance}");
-                return;
+                throw new InsufficientFundsException(Balance);
             }
             _transactions.Add(new Transaction(description, -amount));
             Balance -= amount;
@@ -42,8 +40,7 @@ namespace StatementBank.Models
         {
             if (amount <= 0)
             {
-                Console.WriteLine($"Amount {amount} is not valid! It must be > 0.");
-                return;
+                throw new InvalidAmountException(amount);
             }
             _transactions.Add(new Transaction(description, amount));
             Balance += amount;
@@ -56,7 +53,5 @@ namespace StatementBank.Models
             return Transactions.Where(item => item.Description
             .Contains(key, StringComparison.OrdinalIgnoreCase)).ToList();
         }
-
-        
     }
 }

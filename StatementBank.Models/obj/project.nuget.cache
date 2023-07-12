@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "oTVqg+nquOEkifeZJ6ipeIylJdLS0E4Dc32MDFiJCLUevVCmZH7wxMnCG/8aEDm4NTXU6UJoEZBtldIyjhjN0A==",
+  "dgSpecHash": "U1+dzWp9/WRMGdoLcInOWIMbSZb2ihSyiLxaiAOnhDj40Nth0r+JmEFiexXIAus5w6Gu8ai7QqgIP5tu4LwzyQ==",
   "success": true,
-  "projectFilePath": "F:\\projects\\softelligence\\demoProjects\\StatementBank\\StatementBank.Models\\StatementBank.Models.csproj",
+  "projectFilePath": "C:\\andrei2023\\projects\\softelligence\\StatementBank\\StatementBank.Models\\StatementBank.Models.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

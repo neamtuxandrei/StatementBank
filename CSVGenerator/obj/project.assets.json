@@ -50,11 +50,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\projects\\softelligence\\demoProjects\\StatementBank\\CSVGenerator\\CSVGenerator.csproj",
+      "projectUniqueName": "C:\\andrei2023\\projects\\softelligence\\StatementBank\\CSVGenerator\\CSVGenerator.csproj",
       "projectName": "CSVGenerator",
-      "projectPath": "F:\\projects\\softelligence\\demoProjects\\StatementBank\\CSVGenerator\\CSVGenerator.csproj",
+      "projectPath": "C:\\andrei2023\\projects\\softelligence\\StatementBank\\CSVGenerator\\CSVGenerator.csproj",
       "packagesPath": "C:\\Users\\neamt\\.nuget\\packages\\",
-      "outputPath": "F:\\projects\\softelligence\\demoProjects\\StatementBank\\CSVGenerator\\obj\\",
+      "outputPath": "C:\\andrei2023\\projects\\softelligence\\StatementBank\\CSVGenerator\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\neamt\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -71,8 +71,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "F:\\projects\\softelligence\\demoProjects\\StatementBank\\StatementBank.Abstractions\\StatementBank.Abstractions.csproj": {
-              "projectPath": "F:\\projects\\softelligence\\demoProjects\\StatementBank\\StatementBank.Abstractions\\StatementBank.Abstractions.csproj"
+            "C:\\andrei2023\\projects\\softelligence\\StatementBank\\StatementBank.Abstractions\\StatementBank.Abstractions.csproj": {
+              "projectPath": "C:\\andrei2023\\projects\\softelligence\\StatementBank\\StatementBank.Abstractions\\StatementBank.Abstractions.csproj"
             }
           }
         }
@@ -102,7 +102,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
       }
     }
   }

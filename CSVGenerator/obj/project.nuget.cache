@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ACGE6oHbV2l4Zeq2NSd0UeRnE/NpUhbhh2bmgr25eW+pzc4c2f8YGtodfVgu6kSS3+VfHE02zLGwB86EQ/94PQ==",
+  "dgSpecHash": "Z01TW4ILit1m9GsTiH2JosmDL5NPbjepsv111LsdORQIjDlBXdjsaJ9V9bl86prLSvbBFrrsv39GhYvJUt3BGA==",
   "success": true,
-  "projectFilePath": "F:\\projects\\softelligence\\demoProjects\\StatementBank\\CSVGenerator\\CSVGenerator.csproj",
+  "projectFilePath": "C:\\andrei2023\\projects\\softelligence\\StatementBank\\CSVGenerator\\CSVGenerator.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
