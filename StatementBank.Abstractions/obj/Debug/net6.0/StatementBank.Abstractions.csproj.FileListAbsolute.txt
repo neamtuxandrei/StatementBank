@@ -1,0 +1,15 @@
+F:\projects\softelligence\demoProjects\StatementBank\StatementBank.Abstractions\bin\Debug\net6.0\StatementBank.Abstractions.deps.json
+F:\projects\softelligence\demoProjects\StatementBank\StatementBank.Abstractions\bin\Debug\net6.0\StatementBank.Abstractions.dll
+F:\projects\softelligence\demoProjects\StatementBank\StatementBank.Abstractions\bin\Debug\net6.0\StatementBank.Abstractions.pdb
+F:\projects\softelligence\demoProjects\StatementBank\StatementBank.Abstractions\bin\Debug\net6.0\StatementBank.Models.dll
+F:\projects\softelligence\demoProjects\StatementBank\StatementBank.Abstractions\bin\Debug\net6.0\StatementBank.Models.pdb
+F:\projects\softelligence\demoProjects\StatementBank\StatementBank.Abstractions\obj\Debug\net6.0\StatementBank.Abstractions.csproj.AssemblyReference.cache
+F:\projects\softelligence\demoProjects\StatementBank\StatementBank.Abstractions\obj\Debug\net6.0\StatementBank.Abstractions.GeneratedMSBuildEditorConfig.editorconfig
+F:\projects\softelligence\demoProjects\StatementBank\StatementBank.Abstractions\obj\Debug\net6.0\StatementBank.Abstractions.AssemblyInfoInputs.cache
+F:\projects\softelligence\demoProjects\StatementBank\StatementBank.Abstractions\obj\Debug\net6.0\StatementBank.Abstractions.AssemblyInfo.cs
+F:\projects\softelligence\demoProjects\StatementBank\StatementBank.Abstractions\obj\Debug\net6.0\StatementBank.Abstractions.csproj.CoreCompileInputs.cache
+F:\projects\softelligence\demoProjects\StatementBank\StatementBank.Abstractions\obj\Debug\net6.0\StatementBank.Abstractions.csproj.CopyComplete
+F:\projects\softelligence\demoProjects\StatementBank\StatementBank.Abstractions\obj\Debug\net6.0\StatementBank.Abstractions.dll
+F:\projects\softelligence\demoProjects\StatementBank\StatementBank.Abstractions\obj\Debug\net6.0\refint\StatementBank.Abstractions.dll
+F:\projects\softelligence\demoProjects\StatementBank\StatementBank.Abstractions\obj\Debug\net6.0\StatementBank.Abstractions.pdb
+F:\projects\softelligence\demoProjects\StatementBank\StatementBank.Abstractions\obj\Debug\net6.0\ref\StatementBank.Abstractions.dll

@@ -7,4 +7,10 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\CSVGenerator\CSVGenerator.csproj" />
+    <ProjectReference Include="..\StatementBank.Abstractions\StatementBank.Abstractions.csproj" />
+    <ProjectReference Include="..\StatementBank.Models\StatementBank.Models.csproj" />
+  </ItemGroup>
+
 </Project>

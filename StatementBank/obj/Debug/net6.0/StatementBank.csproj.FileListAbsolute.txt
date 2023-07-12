@@ -13,3 +13,10 @@ F:\projects\softelligence\demoProjects\StatementBank\StatementBank\obj\Debug\net
 F:\projects\softelligence\demoProjects\StatementBank\StatementBank\obj\Debug\net6.0\StatementBank.pdb
 F:\projects\softelligence\demoProjects\StatementBank\StatementBank\obj\Debug\net6.0\StatementBank.genruntimeconfig.cache
 F:\projects\softelligence\demoProjects\StatementBank\StatementBank\obj\Debug\net6.0\ref\StatementBank.dll
+F:\projects\softelligence\demoProjects\StatementBank\StatementBank\bin\Debug\net6.0\CSVGenerator.dll
+F:\projects\softelligence\demoProjects\StatementBank\StatementBank\bin\Debug\net6.0\StatementBank.Abstractions.dll
+F:\projects\softelligence\demoProjects\StatementBank\StatementBank\bin\Debug\net6.0\StatementBank.Models.dll
+F:\projects\softelligence\demoProjects\StatementBank\StatementBank\bin\Debug\net6.0\CSVGenerator.pdb
+F:\projects\softelligence\demoProjects\StatementBank\StatementBank\bin\Debug\net6.0\StatementBank.Abstractions.pdb
+F:\projects\softelligence\demoProjects\StatementBank\StatementBank\bin\Debug\net6.0\StatementBank.Models.pdb
+F:\projects\softelligence\demoProjects\StatementBank\StatementBank\obj\Debug\net6.0\StatementBank.csproj.CopyComplete

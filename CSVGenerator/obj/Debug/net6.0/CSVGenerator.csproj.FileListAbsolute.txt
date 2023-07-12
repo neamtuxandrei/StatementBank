@@ -1,0 +1,17 @@
+F:\projects\softelligence\demoProjects\StatementBank\CSVGenerator\bin\Debug\net6.0\CSVGenerator.deps.json
+F:\projects\softelligence\demoProjects\StatementBank\CSVGenerator\bin\Debug\net6.0\CSVGenerator.dll
+F:\projects\softelligence\demoProjects\StatementBank\CSVGenerator\bin\Debug\net6.0\CSVGenerator.pdb
+F:\projects\softelligence\demoProjects\StatementBank\CSVGenerator\bin\Debug\net6.0\StatementBank.Abstractions.dll
+F:\projects\softelligence\demoProjects\StatementBank\CSVGenerator\bin\Debug\net6.0\StatementBank.Models.dll
+F:\projects\softelligence\demoProjects\StatementBank\CSVGenerator\bin\Debug\net6.0\StatementBank.Abstractions.pdb
+F:\projects\softelligence\demoProjects\StatementBank\CSVGenerator\bin\Debug\net6.0\StatementBank.Models.pdb
+F:\projects\softelligence\demoProjects\StatementBank\CSVGenerator\obj\Debug\net6.0\CSVGenerator.csproj.AssemblyReference.cache
+F:\projects\softelligence\demoProjects\StatementBank\CSVGenerator\obj\Debug\net6.0\CSVGenerator.GeneratedMSBuildEditorConfig.editorconfig
+F:\projects\softelligence\demoProjects\StatementBank\CSVGenerator\obj\Debug\net6.0\CSVGenerator.AssemblyInfoInputs.cache
+F:\projects\softelligence\demoProjects\StatementBank\CSVGenerator\obj\Debug\net6.0\CSVGenerator.AssemblyInfo.cs
+F:\projects\softelligence\demoProjects\StatementBank\CSVGenerator\obj\Debug\net6.0\CSVGenerator.csproj.CoreCompileInputs.cache
+F:\projects\softelligence\demoProjects\StatementBank\CSVGenerator\obj\Debug\net6.0\CSVGenerator.csproj.CopyComplete
+F:\projects\softelligence\demoProjects\StatementBank\CSVGenerator\obj\Debug\net6.0\CSVGenerator.dll
+F:\projects\softelligence\demoProjects\StatementBank\CSVGenerator\obj\Debug\net6.0\refint\CSVGenerator.dll
+F:\projects\softelligence\demoProjects\StatementBank\CSVGenerator\obj\Debug\net6.0\CSVGenerator.pdb
+F:\projects\softelligence\demoProjects\StatementBank\CSVGenerator\obj\Debug\net6.0\ref\CSVGenerator.dll

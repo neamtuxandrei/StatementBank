@@ -7,14 +7,55 @@
   "targets": {
     ".NETCoreApp,Version=v6.0": {
       "StatementBank/1.0.0": {
+        "dependencies": {
+          "CSVGenerator": "1.0.0",
+          "StatementBank.Abstractions": "1.0.0",
+          "StatementBank.Models": "1.0.0"
+        },
         "runtime": {
           "StatementBank.dll": {}
+        }
+      },
+      "CSVGenerator/1.0.0": {
+        "dependencies": {
+          "StatementBank.Abstractions": "1.0.0"
+        },
+        "runtime": {
+          "CSVGenerator.dll": {}
+        }
+      },
+      "StatementBank.Abstractions/1.0.0": {
+        "dependencies": {
+          "StatementBank.Models": "1.0.0"
+        },
+        "runtime": {
+          "StatementBank.Abstractions.dll": {}
+        }
+      },
+      "StatementBank.Models/1.0.0": {
+        "runtime": {
+          "StatementBank.Models.dll": {}
         }
       }
     }
   },
   "libraries": {
     "StatementBank/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CSVGenerator/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "StatementBank.Abstractions/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "StatementBank.Models/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

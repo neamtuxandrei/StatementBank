@@ -1,8 +1,8 @@
 FirstName,LastName,TransactionDescription,TransactionAmount,TransactionDate
-Andrei,Neamtu,Cumparare POS,26.53EUR,4/4/2023 12:30:00 PM
-Andrei,Neamtu,Imprimanta,102.32EUR,7/7/2023 12:30:00 PM
-Andrei,Neamtu,Tablou albastru,5.99EUR,5/5/2023 10:30:00 AM
-Andrei,Neamtu,Masina,1113.23EUR,9/9/2023 10:30:00 AM
-Andrei,Neamtu,Tastatura,11.99EUR,12/5/2022 1:28:21 PM
-Andrei,Neamtu,Ochelari,39.99EUR,2/6/2021 6:00:00 PM
-Andrei,Neamtu,Monitor,55.21EUR,11/26/2025 11:16:00 AM
+Andrei,Neamtu,Cumparare POS,-26.53EUR,7/11/2023 11:38:38 AM
+Andrei,Neamtu,Imprimanta,-102.32EUR,7/11/2023 11:38:38 AM
+Andrei,Neamtu,Tablou albastru,5.99EUR,7/11/2023 11:38:38 AM
+Andrei,Neamtu,Masina,1113.23EUR,7/11/2023 11:38:38 AM
+Andrei,Neamtu,Tastatura,-11.99EUR,7/11/2023 11:38:38 AM
+Andrei,Neamtu,Ochelari,-39.99EUR,7/11/2023 11:38:38 AM
+Andrei,Neamtu,Monitor,-55.21EUR,7/11/2023 11:38:38 AM

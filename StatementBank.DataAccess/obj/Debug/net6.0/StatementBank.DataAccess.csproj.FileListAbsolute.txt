@@ -1,0 +1,17 @@
+F:\projects\softelligence\demoProjects\StatementBank\StatementBank.DataAccess\bin\Debug\net6.0\StatementBank.DataAccess.deps.json
+F:\projects\softelligence\demoProjects\StatementBank\StatementBank.DataAccess\bin\Debug\net6.0\StatementBank.DataAccess.dll
+F:\projects\softelligence\demoProjects\StatementBank\StatementBank.DataAccess\bin\Debug\net6.0\StatementBank.DataAccess.pdb
+F:\projects\softelligence\demoProjects\StatementBank\StatementBank.DataAccess\bin\Debug\net6.0\StatementBank.Abstractions.dll
+F:\projects\softelligence\demoProjects\StatementBank\StatementBank.DataAccess\bin\Debug\net6.0\StatementBank.Models.dll
+F:\projects\softelligence\demoProjects\StatementBank\StatementBank.DataAccess\bin\Debug\net6.0\StatementBank.Abstractions.pdb
+F:\projects\softelligence\demoProjects\StatementBank\StatementBank.DataAccess\bin\Debug\net6.0\StatementBank.Models.pdb
+F:\projects\softelligence\demoProjects\StatementBank\StatementBank.DataAccess\obj\Debug\net6.0\StatementBank.DataAccess.csproj.AssemblyReference.cache
+F:\projects\softelligence\demoProjects\StatementBank\StatementBank.DataAccess\obj\Debug\net6.0\StatementBank.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+F:\projects\softelligence\demoProjects\StatementBank\StatementBank.DataAccess\obj\Debug\net6.0\StatementBank.DataAccess.AssemblyInfoInputs.cache
+F:\projects\softelligence\demoProjects\StatementBank\StatementBank.DataAccess\obj\Debug\net6.0\StatementBank.DataAccess.AssemblyInfo.cs
+F:\projects\softelligence\demoProjects\StatementBank\StatementBank.DataAccess\obj\Debug\net6.0\StatementBank.DataAccess.csproj.CoreCompileInputs.cache
+F:\projects\softelligence\demoProjects\StatementBank\StatementBank.DataAccess\obj\Debug\net6.0\StatementBank.DataAccess.csproj.CopyComplete
+F:\projects\softelligence\demoProjects\StatementBank\StatementBank.DataAccess\obj\Debug\net6.0\StatementBank.DataAccess.dll
+F:\projects\softelligence\demoProjects\StatementBank\StatementBank.DataAccess\obj\Debug\net6.0\refint\StatementBank.DataAccess.dll
+F:\projects\softelligence\demoProjects\StatementBank\StatementBank.DataAccess\obj\Debug\net6.0\StatementBank.DataAccess.pdb
+F:\projects\softelligence\demoProjects\StatementBank\StatementBank.DataAccess\obj\Debug\net6.0\ref\StatementBank.DataAccess.dll
