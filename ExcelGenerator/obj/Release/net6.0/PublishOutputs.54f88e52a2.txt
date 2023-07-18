@@ -1,0 +1,15 @@
+F:\projects\softelligence\demoProjects\StatementBank\StatementBank\Extensions\Debug\net6.0\ExcelGenerator.dll
+F:\projects\softelligence\demoProjects\StatementBank\StatementBank\Extensions\Debug\net6.0\ExcelGenerator.deps.json
+F:\projects\softelligence\demoProjects\StatementBank\StatementBank\Extensions\Debug\net6.0\ExcelGenerator.pdb
+F:\projects\softelligence\demoProjects\StatementBank\StatementBank\Extensions\Debug\net6.0\ClosedXML.dll
+F:\projects\softelligence\demoProjects\StatementBank\StatementBank\Extensions\Debug\net6.0\DocumentFormat.OpenXml.dll
+F:\projects\softelligence\demoProjects\StatementBank\StatementBank\Extensions\Debug\net6.0\ExcelNumberFormat.dll
+F:\projects\softelligence\demoProjects\StatementBank\StatementBank\Extensions\Debug\net6.0\Irony.dll
+F:\projects\softelligence\demoProjects\StatementBank\StatementBank\Extensions\Debug\net6.0\SixLabors.Fonts.dll
+F:\projects\softelligence\demoProjects\StatementBank\StatementBank\Extensions\Debug\net6.0\System.ComponentModel.Composition.dll
+F:\projects\softelligence\demoProjects\StatementBank\StatementBank\Extensions\Debug\net6.0\System.IO.Packaging.dll
+F:\projects\softelligence\demoProjects\StatementBank\StatementBank\Extensions\Debug\net6.0\XLParser.dll
+F:\projects\softelligence\demoProjects\StatementBank\StatementBank\Extensions\Debug\net6.0\StatementBank.Abstractions.dll
+F:\projects\softelligence\demoProjects\StatementBank\StatementBank\Extensions\Debug\net6.0\StatementBank.Models.dll
+F:\projects\softelligence\demoProjects\StatementBank\StatementBank\Extensions\Debug\net6.0\StatementBank.Abstractions.pdb
+F:\projects\softelligence\demoProjects\StatementBank\StatementBank\Extensions\Debug\net6.0\StatementBank.Models.pdb

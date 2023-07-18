@@ -13,10 +13,8 @@ F:\projects\softelligence\demoProjects\StatementBank\StatementBank\obj\Debug\net
 F:\projects\softelligence\demoProjects\StatementBank\StatementBank\obj\Debug\net6.0\StatementBank.pdb
 F:\projects\softelligence\demoProjects\StatementBank\StatementBank\obj\Debug\net6.0\StatementBank.genruntimeconfig.cache
 F:\projects\softelligence\demoProjects\StatementBank\StatementBank\obj\Debug\net6.0\ref\StatementBank.dll
-F:\projects\softelligence\demoProjects\StatementBank\StatementBank\bin\Debug\net6.0\CSVGenerator.dll
 F:\projects\softelligence\demoProjects\StatementBank\StatementBank\bin\Debug\net6.0\StatementBank.Abstractions.dll
 F:\projects\softelligence\demoProjects\StatementBank\StatementBank\bin\Debug\net6.0\StatementBank.Models.dll
-F:\projects\softelligence\demoProjects\StatementBank\StatementBank\bin\Debug\net6.0\CSVGenerator.pdb
 F:\projects\softelligence\demoProjects\StatementBank\StatementBank\bin\Debug\net6.0\StatementBank.Abstractions.pdb
 F:\projects\softelligence\demoProjects\StatementBank\StatementBank\bin\Debug\net6.0\StatementBank.Models.pdb
 F:\projects\softelligence\demoProjects\StatementBank\StatementBank\obj\Debug\net6.0\StatementBank.csproj.CopyComplete
@@ -42,13 +40,4 @@ C:\andrei2023\projects\softelligence\StatementBank\StatementBank\obj\Debug\net6.
 C:\andrei2023\projects\softelligence\StatementBank\StatementBank\obj\Debug\net6.0\StatementBank.pdb
 C:\andrei2023\projects\softelligence\StatementBank\StatementBank\obj\Debug\net6.0\StatementBank.genruntimeconfig.cache
 C:\andrei2023\projects\softelligence\StatementBank\StatementBank\obj\Debug\net6.0\ref\StatementBank.dll
-F:\projects\softelligence\demoProjects\StatementBank\StatementBank\bin\Debug\net6.0\ClosedXML.dll
-F:\projects\softelligence\demoProjects\StatementBank\StatementBank\bin\Debug\net6.0\DocumentFormat.OpenXml.dll
-F:\projects\softelligence\demoProjects\StatementBank\StatementBank\bin\Debug\net6.0\ExcelNumberFormat.dll
-F:\projects\softelligence\demoProjects\StatementBank\StatementBank\bin\Debug\net6.0\Irony.dll
-F:\projects\softelligence\demoProjects\StatementBank\StatementBank\bin\Debug\net6.0\SixLabors.Fonts.dll
-F:\projects\softelligence\demoProjects\StatementBank\StatementBank\bin\Debug\net6.0\System.IO.Packaging.dll
-F:\projects\softelligence\demoProjects\StatementBank\StatementBank\bin\Debug\net6.0\XLParser.dll
-F:\projects\softelligence\demoProjects\StatementBank\StatementBank\bin\Debug\net6.0\ExcelGenerator.dll
-F:\projects\softelligence\demoProjects\StatementBank\StatementBank\bin\Debug\net6.0\ExcelGenerator.pdb
 F:\projects\softelligence\demoProjects\StatementBank\StatementBank\bin\Debug\net6.0\System.ComponentModel.Composition.dll

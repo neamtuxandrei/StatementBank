@@ -4,7 +4,6 @@
     <TargetFramework>net6.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <BaseOutputPath>..\StatementBank\Extensions\</BaseOutputPath>
   </PropertyGroup>
 
   <ItemGroup>
@@ -15,5 +14,9 @@
   <ItemGroup>
     <ProjectReference Include="..\StatementBank.Abstractions\StatementBank.Abstractions.csproj" />
   </ItemGroup>
+
+  <Target Name="PostBuild" AfterTargets="PostBuildEvent">
+    <Exec Command="copy $(TargetPath) $(SolutionDir)\StatementBank\Extensions" />
+  </Target>
 
 </Project>

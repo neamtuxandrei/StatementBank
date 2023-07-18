@@ -12,8 +12,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\CSVGenerator\CSVGenerator.csproj" />
-    <ProjectReference Include="..\ExcelGenerator\ExcelGenerator.csproj" />
     <ProjectReference Include="..\StatementBank.Abstractions\StatementBank.Abstractions.csproj" />
     <ProjectReference Include="..\StatementBank.Models\StatementBank.Models.csproj" />
   </ItemGroup>

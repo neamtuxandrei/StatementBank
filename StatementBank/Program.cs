@@ -5,13 +5,9 @@ using StatementBank;
 
 public class Program
 {
-    private readonly IStatementGenerator _statementGenerator;
-    private readonly List<Account> _accounts;
-    private Program(IStatementGenerator generator, List<Account> accounts)
-    {
-        _statementGenerator = generator;
-        _accounts = accounts;
-    }
+    private IStatementGenerator? _statementGenerator;
+    private List<Account> _accounts = new List<Account>();
+
     static void Main(string[] args)
     {
         var startDate = new DateTime(2019, 3, 5, 12, 30, 0);
@@ -20,11 +16,20 @@ public class Program
         Console.WriteLine("Enter type of generator:");
         var userInput = Console.ReadLine();
 
-        var compositionBuilder = new CompositionBuilder();
-        var generator = compositionBuilder.GetGeneratorByMetaData(userInput);
-        var program = new Program(generator, GetAccounts());
-
-        program._statementGenerator.GenerateStatement(program._accounts[0], startDate, endDate);
+        var compositionBuilder = new ReportGeneratorsManager();
+        Program program = new();
+        try
+        {
+            program._accounts = GetAccounts();
+            program._statementGenerator = compositionBuilder.GetGeneratorOfType(userInput);
+            program._statementGenerator.GenerateStatement(program._accounts[0], startDate, endDate);
+        }catch(ArgumentException)
+        {
+            Console.WriteLine($"The user input is not valid. A generator with type {userInput} does not exist.");
+        }catch(Exception)
+        {
+            Console.WriteLine("Unexpected behavior encountered.");
+        }
 
         Console.ReadLine();
     }

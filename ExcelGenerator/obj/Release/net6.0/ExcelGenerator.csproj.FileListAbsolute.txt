@@ -1,0 +1,13 @@
+F:\projects\softelligence\demoProjects\StatementBank\StatementBank\Extensions\Release\net6.0\ExcelGenerator.deps.json
+F:\projects\softelligence\demoProjects\StatementBank\StatementBank\Extensions\Release\net6.0\ExcelGenerator.dll
+F:\projects\softelligence\demoProjects\StatementBank\StatementBank\Extensions\Release\net6.0\ExcelGenerator.pdb
+F:\projects\softelligence\demoProjects\StatementBank\ExcelGenerator\obj\Release\net6.0\ExcelGenerator.csproj.AssemblyReference.cache
+F:\projects\softelligence\demoProjects\StatementBank\ExcelGenerator\obj\Release\net6.0\ExcelGenerator.GeneratedMSBuildEditorConfig.editorconfig
+F:\projects\softelligence\demoProjects\StatementBank\ExcelGenerator\obj\Release\net6.0\ExcelGenerator.AssemblyInfoInputs.cache
+F:\projects\softelligence\demoProjects\StatementBank\ExcelGenerator\obj\Release\net6.0\ExcelGenerator.AssemblyInfo.cs
+F:\projects\softelligence\demoProjects\StatementBank\ExcelGenerator\obj\Release\net6.0\ExcelGenerator.csproj.CoreCompileInputs.cache
+F:\projects\softelligence\demoProjects\StatementBank\ExcelGenerator\obj\Release\net6.0\ExcelGenerator.csproj.CopyComplete
+F:\projects\softelligence\demoProjects\StatementBank\ExcelGenerator\obj\Release\net6.0\ExcelGenerator.dll
+F:\projects\softelligence\demoProjects\StatementBank\ExcelGenerator\obj\Release\net6.0\refint\ExcelGenerator.dll
+F:\projects\softelligence\demoProjects\StatementBank\ExcelGenerator\obj\Release\net6.0\ExcelGenerator.pdb
+F:\projects\softelligence\demoProjects\StatementBank\ExcelGenerator\obj\Release\net6.0\ref\ExcelGenerator.dll

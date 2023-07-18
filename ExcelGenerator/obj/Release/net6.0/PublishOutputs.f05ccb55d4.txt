@@ -1,0 +1,15 @@
+F:\projects\softelligence\demoProjects\StatementBank\StatementBank\Extensions\ExcelGenerator.dll
+F:\projects\softelligence\demoProjects\StatementBank\StatementBank\Extensions\ExcelGenerator.deps.json
+F:\projects\softelligence\demoProjects\StatementBank\StatementBank\Extensions\ExcelGenerator.pdb
+F:\projects\softelligence\demoProjects\StatementBank\StatementBank\Extensions\ClosedXML.dll
+F:\projects\softelligence\demoProjects\StatementBank\StatementBank\Extensions\DocumentFormat.OpenXml.dll
+F:\projects\softelligence\demoProjects\StatementBank\StatementBank\Extensions\ExcelNumberFormat.dll
+F:\projects\softelligence\demoProjects\StatementBank\StatementBank\Extensions\Irony.dll
+F:\projects\softelligence\demoProjects\StatementBank\StatementBank\Extensions\SixLabors.Fonts.dll
+F:\projects\softelligence\demoProjects\StatementBank\StatementBank\Extensions\System.ComponentModel.Composition.dll
+F:\projects\softelligence\demoProjects\StatementBank\StatementBank\Extensions\System.IO.Packaging.dll
+F:\projects\softelligence\demoProjects\StatementBank\StatementBank\Extensions\XLParser.dll
+F:\projects\softelligence\demoProjects\StatementBank\StatementBank\Extensions\StatementBank.Abstractions.dll
+F:\projects\softelligence\demoProjects\StatementBank\StatementBank\Extensions\StatementBank.Models.dll
+F:\projects\softelligence\demoProjects\StatementBank\StatementBank\Extensions\StatementBank.Abstractions.pdb
+F:\projects\softelligence\demoProjects\StatementBank\StatementBank\Extensions\StatementBank.Models.pdb
