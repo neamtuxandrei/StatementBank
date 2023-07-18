@@ -1,0 +1,65 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "CSVGenerator/1.0.0": {
+        "dependencies": {
+          "StatementBank.Abstractions": "1.0.0",
+          "System.ComponentModel.Composition": "7.0.0"
+        },
+        "runtime": {
+          "CSVGenerator.dll": {}
+        }
+      },
+      "System.ComponentModel.Composition/7.0.0": {
+        "runtime": {
+          "lib/net6.0/System.ComponentModel.Composition.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "7.0.22.51805"
+          }
+        }
+      },
+      "StatementBank.Abstractions/1.0.0": {
+        "dependencies": {
+          "StatementBank.Models": "1.0.0"
+        },
+        "runtime": {
+          "StatementBank.Abstractions.dll": {}
+        }
+      },
+      "StatementBank.Models/1.0.0": {
+        "runtime": {
+          "StatementBank.Models.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CSVGenerator/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "System.ComponentModel.Composition/7.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-orv0h38ZVPCPo/FW0LGv8/TigXwX8cIwXeQcaNYhikkqELDm8sUFLMcof/Sjcq5EvYCm5NA7MV3hG4u75H44UQ==",
+      "path": "system.componentmodel.composition/7.0.0",
+      "hashPath": "system.componentmodel.composition.7.0.0.nupkg.sha512"
+    },
+    "StatementBank.Abstractions/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "StatementBank.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

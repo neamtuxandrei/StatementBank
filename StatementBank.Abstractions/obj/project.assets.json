@@ -32,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\andrei2023\\projects\\softelligence\\StatementBank\\StatementBank.Abstractions\\StatementBank.Abstractions.csproj",
+      "projectUniqueName": "F:\\projects\\softelligence\\demoProjects\\StatementBank\\StatementBank.Abstractions\\StatementBank.Abstractions.csproj",
       "projectName": "StatementBank.Abstractions",
-      "projectPath": "C:\\andrei2023\\projects\\softelligence\\StatementBank\\StatementBank.Abstractions\\StatementBank.Abstractions.csproj",
+      "projectPath": "F:\\projects\\softelligence\\demoProjects\\StatementBank\\StatementBank.Abstractions\\StatementBank.Abstractions.csproj",
       "packagesPath": "C:\\Users\\neamt\\.nuget\\packages\\",
-      "outputPath": "C:\\andrei2023\\projects\\softelligence\\StatementBank\\StatementBank.Abstractions\\obj\\",
+      "outputPath": "F:\\projects\\softelligence\\demoProjects\\StatementBank\\StatementBank.Abstractions\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\neamt\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -53,8 +53,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\andrei2023\\projects\\softelligence\\StatementBank\\StatementBank.Models\\StatementBank.Models.csproj": {
-              "projectPath": "C:\\andrei2023\\projects\\softelligence\\StatementBank\\StatementBank.Models\\StatementBank.Models.csproj"
+            "F:\\projects\\softelligence\\demoProjects\\StatementBank\\StatementBank.Models\\StatementBank.Models.csproj": {
+              "projectPath": "F:\\projects\\softelligence\\demoProjects\\StatementBank\\StatementBank.Models\\StatementBank.Models.csproj"
             }
           }
         }
@@ -84,7 +84,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
       }
     }
   }

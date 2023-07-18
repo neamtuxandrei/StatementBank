@@ -1,9 +1,12 @@
 ﻿using StatementBank.Abstractions;
 using StatementBank.Models;
+using System.ComponentModel.Composition;
 using System.Text;
 
 namespace StatementBank.Generators
 {
+    [Export(typeof(IStatementGenerator))]
+    [ExportMetadata("Type", "csv")]
     public class CSVGenerator : IStatementGenerator
     {
         public void GenerateStatement(Account account, DateTime? startDate = null, DateTime? endDate = null)
@@ -22,7 +25,7 @@ namespace StatementBank.Generators
                 transactions = transactions.Where(t => t.Date <= endDate).ToList();
 
             LogToConsole($"\nGenerating {account.Customer.FirstName} {account.Customer.LastName}'s CSV statement...");
-           
+
             foreach (var transaction in transactions)
             {
                 stringBuilder.Append($"{account.Customer.FirstName},{account.Customer.LastName},");
@@ -44,6 +47,6 @@ namespace StatementBank.Generators
             Console.WriteLine($"{info}");
         }
 
-       
+
     }
 }

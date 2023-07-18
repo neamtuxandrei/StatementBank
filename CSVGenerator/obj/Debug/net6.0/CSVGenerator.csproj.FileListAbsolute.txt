@@ -32,3 +32,6 @@ C:\andrei2023\projects\softelligence\StatementBank\CSVGenerator\obj\Debug\net6.0
 C:\andrei2023\projects\softelligence\StatementBank\CSVGenerator\obj\Debug\net6.0\refint\CSVGenerator.dll
 C:\andrei2023\projects\softelligence\StatementBank\CSVGenerator\obj\Debug\net6.0\CSVGenerator.pdb
 C:\andrei2023\projects\softelligence\StatementBank\CSVGenerator\obj\Debug\net6.0\ref\CSVGenerator.dll
+F:\projects\softelligence\demoProjects\StatementBank\StatementBank\Extensions\Debug\net6.0\CSVGenerator.deps.json
+F:\projects\softelligence\demoProjects\StatementBank\StatementBank\Extensions\Debug\net6.0\CSVGenerator.dll
+F:\projects\softelligence\demoProjects\StatementBank\StatementBank\Extensions\Debug\net6.0\CSVGenerator.pdb

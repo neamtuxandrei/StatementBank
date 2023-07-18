@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "Z01TW4ILit1m9GsTiH2JosmDL5NPbjepsv111LsdORQIjDlBXdjsaJ9V9bl86prLSvbBFrrsv39GhYvJUt3BGA==",
+  "dgSpecHash": "tzuAw3NqgkwXA/6oUYvItpo24SJ7FrL7JVSKiYyYKlUtoUh+OWHj3uhmHoiMqBbyAUNpgBcgBok1nuRJ/erdWQ==",
   "success": true,
-  "projectFilePath": "C:\\andrei2023\\projects\\softelligence\\StatementBank\\CSVGenerator\\CSVGenerator.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "F:\\projects\\softelligence\\demoProjects\\StatementBank\\CSVGenerator\\CSVGenerator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\neamt\\.nuget\\packages\\system.componentmodel.composition\\7.0.0\\system.componentmodel.composition.7.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

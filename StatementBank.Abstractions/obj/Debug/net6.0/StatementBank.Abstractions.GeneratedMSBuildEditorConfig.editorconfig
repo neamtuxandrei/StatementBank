@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = StatementBank.Abstractions
-build_property.ProjectDir = C:\andrei2023\projects\softelligence\StatementBank\StatementBank.Abstractions\
+build_property.ProjectDir = F:\projects\softelligence\demoProjects\StatementBank\StatementBank.Abstractions\
