@@ -13,6 +13,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\StatementBank.Abstractions\StatementBank.Abstractions.csproj" />
+    <ProjectReference Include="..\StatementBank.DataAccess\StatementBank.DataAccess.csproj" />
     <ProjectReference Include="..\StatementBank.Models\StatementBank.Models.csproj" />
   </ItemGroup>
 

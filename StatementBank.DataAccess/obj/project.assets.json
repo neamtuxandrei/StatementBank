@@ -2,19 +2,6 @@
   "version": 3,
   "targets": {
     "net6.0": {
-      "StatementBank.Abstractions/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v6.0",
-        "dependencies": {
-          "StatementBank.Models": "1.0.0"
-        },
-        "compile": {
-          "bin/placeholder/StatementBank.Abstractions.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/StatementBank.Abstractions.dll": {}
-        }
-      },
       "StatementBank.Models/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
@@ -28,11 +15,6 @@
     }
   },
   "libraries": {
-    "StatementBank.Abstractions/1.0.0": {
-      "type": "project",
-      "path": "../StatementBank.Abstractions/StatementBank.Abstractions.csproj",
-      "msbuildProject": "../StatementBank.Abstractions/StatementBank.Abstractions.csproj"
-    },
     "StatementBank.Models/1.0.0": {
       "type": "project",
       "path": "../StatementBank.Models/StatementBank.Models.csproj",
@@ -41,7 +23,7 @@
   },
   "projectFileDependencyGroups": {
     "net6.0": [
-      "StatementBank.Abstractions >= 1.0.0"
+      "StatementBank.Models >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -71,8 +53,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "F:\\projects\\softelligence\\demoProjects\\StatementBank\\StatementBank.Abstractions\\StatementBank.Abstractions.csproj": {
-              "projectPath": "F:\\projects\\softelligence\\demoProjects\\StatementBank\\StatementBank.Abstractions\\StatementBank.Abstractions.csproj"
+            "F:\\projects\\softelligence\\demoProjects\\StatementBank\\StatementBank.Models\\StatementBank.Models.csproj": {
+              "projectPath": "F:\\projects\\softelligence\\demoProjects\\StatementBank\\StatementBank.Models\\StatementBank.Models.csproj"
             }
           }
         }

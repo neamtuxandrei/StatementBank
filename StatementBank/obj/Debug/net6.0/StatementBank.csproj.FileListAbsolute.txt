@@ -41,3 +41,5 @@ C:\andrei2023\projects\softelligence\StatementBank\StatementBank\obj\Debug\net6.
 C:\andrei2023\projects\softelligence\StatementBank\StatementBank\obj\Debug\net6.0\StatementBank.genruntimeconfig.cache
 C:\andrei2023\projects\softelligence\StatementBank\StatementBank\obj\Debug\net6.0\ref\StatementBank.dll
 F:\projects\softelligence\demoProjects\StatementBank\StatementBank\bin\Debug\net6.0\System.ComponentModel.Composition.dll
+F:\projects\softelligence\demoProjects\StatementBank\StatementBank\bin\Debug\net6.0\StatementBank.DataAccess.dll
+F:\projects\softelligence\demoProjects\StatementBank\StatementBank\bin\Debug\net6.0\StatementBank.DataAccess.pdb

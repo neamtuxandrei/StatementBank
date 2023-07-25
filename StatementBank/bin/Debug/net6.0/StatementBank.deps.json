@@ -9,6 +9,7 @@
       "StatementBank/1.0.0": {
         "dependencies": {
           "StatementBank.Abstractions": "1.0.0",
+          "StatementBank.DataAccess": "1.0.0",
           "StatementBank.Models": "1.0.0",
           "System.ComponentModel.Composition": "7.0.0"
         },
@@ -32,6 +33,14 @@
           "StatementBank.Abstractions.dll": {}
         }
       },
+      "StatementBank.DataAccess/1.0.0": {
+        "dependencies": {
+          "StatementBank.Models": "1.0.0"
+        },
+        "runtime": {
+          "StatementBank.DataAccess.dll": {}
+        }
+      },
       "StatementBank.Models/1.0.0": {
         "runtime": {
           "StatementBank.Models.dll": {}
@@ -53,6 +62,11 @@
       "hashPath": "system.componentmodel.composition.7.0.0.nupkg.sha512"
     },
     "StatementBank.Abstractions/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "StatementBank.DataAccess/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

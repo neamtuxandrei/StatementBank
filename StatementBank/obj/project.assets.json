@@ -31,6 +31,19 @@
           "bin/placeholder/StatementBank.Abstractions.dll": {}
         }
       },
+      "StatementBank.DataAccess/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "StatementBank.Models": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/StatementBank.DataAccess.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/StatementBank.DataAccess.dll": {}
+        }
+      },
       "StatementBank.Models/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
@@ -73,6 +86,11 @@
       "path": "../StatementBank.Abstractions/StatementBank.Abstractions.csproj",
       "msbuildProject": "../StatementBank.Abstractions/StatementBank.Abstractions.csproj"
     },
+    "StatementBank.DataAccess/1.0.0": {
+      "type": "project",
+      "path": "../StatementBank.DataAccess/StatementBank.DataAccess.csproj",
+      "msbuildProject": "../StatementBank.DataAccess/StatementBank.DataAccess.csproj"
+    },
     "StatementBank.Models/1.0.0": {
       "type": "project",
       "path": "../StatementBank.Models/StatementBank.Models.csproj",
@@ -82,6 +100,7 @@
   "projectFileDependencyGroups": {
     "net6.0": [
       "StatementBank.Abstractions >= 1.0.0",
+      "StatementBank.DataAccess >= 1.0.0",
       "StatementBank.Models >= 1.0.0",
       "System.ComponentModel.Composition >= 7.0.0"
     ]
@@ -115,6 +134,9 @@
           "projectReferences": {
             "F:\\projects\\softelligence\\demoProjects\\StatementBank\\StatementBank.Abstractions\\StatementBank.Abstractions.csproj": {
               "projectPath": "F:\\projects\\softelligence\\demoProjects\\StatementBank\\StatementBank.Abstractions\\StatementBank.Abstractions.csproj"
+            },
+            "F:\\projects\\softelligence\\demoProjects\\StatementBank\\StatementBank.DataAccess\\StatementBank.DataAccess.csproj": {
+              "projectPath": "F:\\projects\\softelligence\\demoProjects\\StatementBank\\StatementBank.DataAccess\\StatementBank.DataAccess.csproj"
             },
             "F:\\projects\\softelligence\\demoProjects\\StatementBank\\StatementBank.Models\\StatementBank.Models.csproj": {
               "projectPath": "F:\\projects\\softelligence\\demoProjects\\StatementBank\\StatementBank.Models\\StatementBank.Models.csproj"

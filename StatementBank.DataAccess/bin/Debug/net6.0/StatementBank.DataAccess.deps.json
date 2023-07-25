@@ -8,18 +8,10 @@
     ".NETCoreApp,Version=v6.0": {
       "StatementBank.DataAccess/1.0.0": {
         "dependencies": {
-          "StatementBank.Abstractions": "1.0.0"
-        },
-        "runtime": {
-          "StatementBank.DataAccess.dll": {}
-        }
-      },
-      "StatementBank.Abstractions/1.0.0": {
-        "dependencies": {
           "StatementBank.Models": "1.0.0"
         },
         "runtime": {
-          "StatementBank.Abstractions.dll": {}
+          "StatementBank.DataAccess.dll": {}
         }
       },
       "StatementBank.Models/1.0.0": {
@@ -31,11 +23,6 @@
   },
   "libraries": {
     "StatementBank.DataAccess/1.0.0": {
-      "type": "project",
-      "serviceable": false,
-      "sha512": ""
-    },
-    "StatementBank.Abstractions/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

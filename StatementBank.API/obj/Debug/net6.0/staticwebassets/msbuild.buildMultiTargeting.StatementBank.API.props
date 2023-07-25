@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\StatementBank.API.props" />
+</Project>
